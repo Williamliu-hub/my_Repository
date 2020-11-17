@@ -1,0 +1,6 @@
+this is my first file, do nothing.
+
+
+git remote add origin git@github.com:Williamliu-hub/my_Repository.git
+git branch -M main
+git push -u origin main
